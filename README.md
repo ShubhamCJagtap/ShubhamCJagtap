@@ -8,7 +8,7 @@
 Currently I am pursuing PGP in Data Science and AI by [INSAID](https://www.insaid.co/).\
 🏢 &nbsp;I have 3 years of experinece in IT idustry as a System Engineer.\
 ⚙️ &nbsp;I love to develop end to end projects\
-📸 &nbsp;In my free time, I do Photography and photo editing as  a hobby. [Instagram&nbsp;&nbsp;&nbsp;<img src="images/instagram.png" width=20>](https://www.instagram.com/shubham.c.jagtap/?hl=en)
+📸 &nbsp;In my free time, I do Photography and photo editing as  a hobby. [Instagram&nbsp;&nbsp;&nbsp; <img src="images/instagram.png" width=20> ](https://www.instagram.com/shubham.c.jagtap/?hl=en)
 
 💬 &nbsp;Feel free to reach out to me. You can email me at shubham.c.jagtap@gmail.com! I'll try to respond as soon as I can. 
 
