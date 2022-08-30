@@ -4,8 +4,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 
-🎓 &nbsp;I have completed my B.E. Electronics and comm. degree in 2019 from Pune University.\
-Currently I am pursuing PGP in Data Science and AI by [INSAID](https://www.insaid.co/).\
+🎓 &nbsp;I completed my B.E. Electronics and Telecommunication degree in 2019 from Pune University.\
+Currently I am pursuing Post Graduation Program in Data Science and AI by [INSAID](https://www.insaid.co/).\
 🏢 &nbsp;I have 3 years of experinece in IT idustry as a System Engineer.\
 ⚙️ &nbsp;I love to develop end to end projects\
 📸 &nbsp;In my free time, I do Photography and photo editing as  a hobby. [Instagram](https://www.instagram.com/shubham.c.jagtap/?hl=en)
